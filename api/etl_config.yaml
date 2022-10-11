@@ -1,0 +1,16 @@
+database-servers:
+- server1:
+    host: host1.company.org
+    password: pass123
+    port: 9090
+    user: admin
+- server2:
+    host: host2.company.org
+    password: pass1234
+    port: 9091
+    user: admin2
+- server3:
+    host: localhost
+    password: mypass
+    port: 8080
+    user: navnit
